@@ -17,7 +17,7 @@ class Saisie{
                }
           } 
      catch(IOException e) {
-          System.out.println("IO Exception ");
+          System.out.println("IO Exception");
           }
 	return chaine;
      }
