@@ -1,0 +1,10 @@
+a320 	a320 
+a340 	a340 
+abandon 	abandon
+abandonne 	abandon
+abandonner 	abandon
+abandonnés 	abandon
+abat 	abat 
+abattent 	abattent 
+abattre 	abattre 
+abattu 	abattu 
